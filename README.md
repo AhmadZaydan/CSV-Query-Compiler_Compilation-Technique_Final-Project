@@ -21,3 +21,10 @@ Group 1:
 - ASC --> Ascending order
 - DESC --> Descending order
 - BY
+
+## Example Usage
+FROM "HARGA RUMAH JAKSEL.csv"
+SELECT HARGA, LT
+WHERE HARGA <= 10000000000 AND LT <= 1000
+ORDER BY HARGA DESC
+LIMIT 10
