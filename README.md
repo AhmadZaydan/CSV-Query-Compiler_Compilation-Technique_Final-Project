@@ -14,13 +14,12 @@ Group 1:
 - FROM --> us to access the csv file
 - SELECT --> select the column
 - WHERE --> the conditions. (Ex: age <= 18)
-- ORDER --> Order the printed list
+- ORDER BY --> Order the printed list
 - LIMIT --> Limit the printed list
 - AND
 - OR
 - ASC --> Ascending order
 - DESC --> Descending order
-- BY
 
 ## Example Usage
 FROM "HARGA RUMAH JAKSEL.csv"  
