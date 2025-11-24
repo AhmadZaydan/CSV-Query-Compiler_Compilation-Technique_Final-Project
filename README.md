@@ -1,1 +1,7 @@
-# CSV-Query-Compiler_Compilation-Technique_Final-Project
+# CSV Query Compiler
+## Compilation Technique Final Project
+
+Group 1:
+- Ahmad Zaydan
+- Edward Liandi
+- Kenneth
