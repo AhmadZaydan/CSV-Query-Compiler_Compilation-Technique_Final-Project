@@ -6,7 +6,7 @@ Group 1:
 - Kenneth
 
 ## How to use
-- Run main.py
+- Run main.py or ui_app.py 
 - Type in your Query
 - Press Enter
 
